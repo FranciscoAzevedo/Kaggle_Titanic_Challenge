@@ -14,10 +14,15 @@ This was my first time using pandas and also the vizualization tools. I think fo
 # Method applied
 
 1 - See the data: Open, check some features and their distributions, see if there are NaN's
+
 2 - Fill the data: Choose a method (mean, median, or other) to fill the NaN's or discard those features
+
 3 - Feature Engeneering: Extract, create and convert features to have all of them in numeric form
+
 4 - Apply the models: Pick the models you know and just give'em data
+
 5 - Evaluate and Improve: Test the models and use cross-validation to tune the hypeparameters of the best models
+
 6 - Rant:   I dont like most ensemble ideas like boosting,bagging or *sigh* stacking. To me its just a quick way to up 
             your algorithms performance as if it was a black box model to sell to a company. There's some empirical background
             for those methods (decrease model variance in bagging and bias in boosting) but it still feels cheap.
