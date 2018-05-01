@@ -27,7 +27,7 @@ This was my first time using pandas and also the vizualization tools. I think fo
             your algorithms performance as if it was a black box model to sell to a company. There's some empirical background
             for those methods (decrease model variance in bagging and bias in boosting) but it still feels cheap.
 
-7 - Be dirty, Stack those models: Disregard any moral or academic values and just apply gradboost and (hard) stack your top5 models
+7 - Voting: Disregard any moral or academic values and just apply gradboost and (hard) vote your top5 models
 
 # What I've learned
 
