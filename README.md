@@ -23,11 +23,9 @@ This was my first time using pandas and also the vizualization tools. I think fo
 
 5 - Evaluate and Improve: Test the models and use cross-validation to tune the hypeparameters of the best models
 
-6 - Rant:   I dont like most ensemble ideas like boosting,bagging or *sigh* stacking. To me its just a quick way to up 
-            your algorithms performance as if it was a black box model to sell to a company. There's some empirical background
+6 - Rant:   I dont like most ensemble ideas like boosting,bagging, stacking. To me its just a quick way to up 
+            your algorithms performance as if it was a black box model. There's some empirical background
             for those methods (decrease model variance in bagging and bias in boosting) but it still feels cheap.
-
-7 - Voting: Disregard any moral or academic values and just apply gradboost and (hard) vote your top5 models
 
 # What I've learned
 
